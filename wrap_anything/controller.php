@@ -9,7 +9,7 @@ defined('C5_EXECUTE') or die(_("Access Denied."));
 class controller extends Package {
 	protected $pkgHandle = 'wrap_anything';
 	protected $appVersionRequired = '5.7.0.4';
-	protected $pkgVersion = '0.9.2';
+	protected $pkgVersion = '1.0.0';
 	
 	public function getPackageName() {
 		return t('Wrap anything');
