@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<schema version="0.3">
+
+	<table name="btWrapAnythingStart">
+		<field name="bID" type="I"><KEY /><UNSIGNED /></field>
+		<field name="class" type="X" />
+		<field name="id" type="X" />
+	</table>
+
+</schema>
